@@ -1,0 +1,18 @@
+.columns-date {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+}
+
+.columns-date__columns-change {
+  float: left;
+}
+
+.columns-date__date-change {
+  float: right;
+}
+
+.mb-15 {
+  margin-bottom: 15px;
+}
